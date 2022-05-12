@@ -1,0 +1,1 @@
+This introduction to machine learning provides an overview of its history, important definitions, applications and concerns within businesses today
